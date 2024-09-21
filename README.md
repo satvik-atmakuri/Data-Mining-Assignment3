@@ -2,6 +2,7 @@
 
 a) Classification
 
+
 Binary Classification - Level
 Colab link: https://colab.research.google.com/drive/1R5JGLTzL4kLaMGDUfJIUj570uWyh9dRY?usp=sharing
 
@@ -17,11 +18,13 @@ Colab link: https://colab.research.google.com/drive/1Ml2SviM71SkO6zNCcVSXUZrwyOQ
 
 Youtube link: https://youtu.be/4Jlxt2UNcAI
 
+
 b) Clustering - Level
 
 Colab link: https://colab.research.google.com/drive/1IOKfXjYz0xagnX3Ds1HNRzHt-Poo0UYQ?usp=sharing
 
 Youtube link: https://youtu.be/vnd2QS8Tkck
+
 
 c) Anomaly Detection - Level
 
@@ -29,11 +32,13 @@ Colab link: https://colab.research.google.com/drive/1ebxqNGX2ZABn4Uh4fHR0_Kxve9g
 
 Youtube link:  https://youtu.be/nPPA9-oRNjk
 
+
 d) Association Rules Mining - Level
 
 Colab link: https://colab.research.google.com/drive/1yE46-Up6l98mqNnyJp4WDW1MiO5HA9zx?usp=sharing
 
 Youtube link: https://youtu.be/bS5OlJrX7Fs
+
 
 e) Time Series Forecasting
 
