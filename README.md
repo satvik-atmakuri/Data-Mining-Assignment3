@@ -1,53 +1,53 @@
-# Data-Mining-Assignment3: Use pycaret to do low code data mining
+# Data Mining Assignment 3: Low Code Data Mining with PyCaret
 
-a) Classification
+## 1. Classification
 
+### a) Binary Classification - Level
 
-   Binary Classification - Level
-   Colab link: https://colab.research.google.com/drive/1R5JGLTzL4kLaMGDUfJIUj570uWyh9dRY?usp=sharing
+- **Colab link:** [Binary Classification Colab](https://colab.research.google.com/drive/1R5JGLTzL4kLaMGDUfJIUj570uWyh9dRY?usp=sharing)
+- **YouTube link:** [Binary Classification YouTube](https://youtu.be/MNfpkZ_ruWY)
 
-Youtube link: https://youtu.be/MNfpkZ_ruWY
+### b) Multiclass Classification - Level
 
-Multiclass Classification - Level
-Colab link: https://colab.research.google.com/drive/1QJSUUyMvjJvdBzUcz11GkbQXBJlkgg3w?usp=sharing
+- **Colab link:** [Multiclass Classification Colab](https://colab.research.google.com/drive/1QJSUUyMvjJvdBzUcz11GkbQXBJlkgg3w?usp=sharing)
+- **YouTube link:** [Multiclass Classification YouTube](https://youtu.be/sTgFG3DcVWQ)
 
-Youtube link: https://youtu.be/sTgFG3DcVWQ
+### c) Regression - Level
 
-Regression - Level
-Colab link: https://colab.research.google.com/drive/1Ml2SviM71SkO6zNCcVSXUZrwyOQTaPr6?usp=sharing
+- **Colab link:** [Regression Colab](https://colab.research.google.com/drive/1Ml2SviM71SkO6zNCcVSXUZrwyOQTaPr6?usp=sharing)
+- **YouTube link:** [Regression YouTube](https://youtu.be/4Jlxt2UNcAI)
 
-Youtube link: https://youtu.be/4Jlxt2UNcAI
+---
 
+## 2. Clustering - Level
 
-b) Clustering - Level
+- **Colab link:** [Clustering Colab](https://colab.research.google.com/drive/1IOKfXjYz0xagnX3Ds1HNRzHt-Poo0UYQ?usp=sharing)
+- **YouTube link:** [Clustering YouTube](https://youtu.be/vnd2QS8Tkck)
 
-Colab link: https://colab.research.google.com/drive/1IOKfXjYz0xagnX3Ds1HNRzHt-Poo0UYQ?usp=sharing
+---
 
-Youtube link: https://youtu.be/vnd2QS8Tkck
+## 3. Anomaly Detection - Level
 
+- **Colab link:** [Anomaly Detection Colab](https://colab.research.google.com/drive/1ebxqNGX2ZABn4Uh4fHR0_Kxve9gQbTl8?usp=sharing)
+- **YouTube link:** [Anomaly Detection YouTube](https://youtu.be/nPPA9-oRNjk)
 
-c) Anomaly Detection - Level
+---
 
-Colab link: https://colab.research.google.com/drive/1ebxqNGX2ZABn4Uh4fHR0_Kxve9gQbTl8?usp=sharing
+## 4. Association Rules Mining - Level
 
-Youtube link:  https://youtu.be/nPPA9-oRNjk
+- **Colab link:** [Association Rules Mining Colab](https://colab.research.google.com/drive/1yE46-Up6l98mqNnyJp4WDW1MiO5HA9zx?usp=sharing)
+- **YouTube link:** [Association Rules Mining YouTube](https://youtu.be/bS5OlJrX7Fs)
 
+---
 
-d) Association Rules Mining - Level
+## 5. Time Series Forecasting
 
-Colab link: https://colab.research.google.com/drive/1yE46-Up6l98mqNnyJp4WDW1MiO5HA9zx?usp=sharing
+- **Colab link:** [Time Series Forecasting Colab](https://colab.research.google.com/drive/1X6XQxrTLkuZf8tlbhR5-P_o8ur_RbB_k?usp=sharing)
+- **YouTube link:** [Time Series Forecasting YouTube](https://youtu.be/UG1VwYrOIm0)
 
-Youtube link: https://youtu.be/bS5OlJrX7Fs
+---
 
+## 6. Gradio Demos (at least 2 examples)
 
-e) Time Series Forecasting
-
-Colab link: https://colab.research.google.com/drive/1X6XQxrTLkuZf8tlbhR5-P_o8ur_RbB_k?usp=sharing
-
-Youtube link: https://youtu.be/UG1VwYrOIm0
-
-# Also do demo of atleast 2 examples in gradio -
-
-Colab link: https://colab.research.google.com/drive/1Ifc2tw0UoYnMFDH2Mi05VxxVLHvscQMP?usp=sharing
-
-Youtube link: https://youtu.be/0lH4Qo2WKkc
+- **Colab link:** [Gradio Demos Colab](https://colab.research.google.com/drive/1Ifc2tw0UoYnMFDH2Mi05VxxVLHvscQMP?usp=sharing)
+- **YouTube link:** [Gradio Demos YouTube](https://youtu.be/0lH4Qo2WKkc)
